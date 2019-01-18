@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-scripts": "2.1.3"
+    "bootstrap": "^4.2.1",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-codemirror": "^1.0.0",
+    "react-dnd": "latest",
+    "react-dnd-html5-backend": "latest",
+    "react-dnd-touch-backend": "latest",
+    "react-dom": "latest",
+    "react-scripts": "2.1.3",
+    "react-sortable-tree": "latest",
+    "react-sortable-tree-theme-file-explorer": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
